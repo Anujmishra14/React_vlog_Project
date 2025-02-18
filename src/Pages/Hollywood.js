@@ -173,9 +173,7 @@ const Hollywood = () => {
 
 
           </div>
-          <div className="advatige advatige-Food">
-            <h2 className="advatige-text advatige-text-Food ">advertistment</h2>
-          </div>
+         
 
         </div>
 
