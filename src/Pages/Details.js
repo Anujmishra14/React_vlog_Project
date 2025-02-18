@@ -11,10 +11,10 @@ const Details = (props) => {
     {
       id: 1,
       title: "My Favourite Movie",
-      img: "https://th.bing.com/th/id/OIP.ywsDjhwpp27a0LWg4IdvMQHaEM?w=283&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      img: "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/5d93a8896f3dfe001ea64e94.jpg",
       category: "Hollywood",
       description:
-        "Jake Sully lives with his newfound family formed on the extrasolar moon Pandora. Once a familiar threat returns to finish what was previously started, Jake must work with Neytiri and the army of the Na'vi race to protect their home.",
+        "The film was announced in October 2014 as Avengers: Infinity War – Part 2, but Marvel Studios later removed this title. The Russo brothers joined as directors in April 2015, with Markus and McFeely signing on to write the script a month later. It is a conclusion to the story of the MCU up to that point, ending the story arcs of several main characters. The film's plot revisits several moments from earlier films, bringing back actors and settings from throughout the franchise. Filming began in August 2017 at Pinewood Atlanta Studios in Fayette County, Georgia, shooting back-to-back with Infinity War, and ended in January 2018",
     },
 
     {
@@ -92,7 +92,7 @@ const Details = (props) => {
     {
       id: 11,
       title: "MARJAAVAN",
-      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRemShT6JAHw&psig=AOvVaw1hFA3nG3rfehwXNjklsJUb&ust=1739984872101000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjdgvXazYsDFQAAAAAdAAAAABAE",
+      img: "https://i.ytimg.com/vi/RemShT6JAHw/maxresdefault.jpg",
       category: "Bollywood",
       description:
         "Marjaavaan (transl. I will die) is a 2019 Hindi language romantic action film[4] written and directed by Milap Milan Zaveri and produced by T-Series and Emmay Entertainment.[5] Marjaavaan stars Riteish Deshmukh, Sidharth Malhotra, Rakul Preet Singh and Tara Sutaria.[6] It was described by co-producer Bhushan Kumar as a masala and dramatic love story.[7] The film received mixed reviews from critics and was commercially 'below average' at the box office. This marked the second collaboration between Malhotra and Deshmukh since Ek Villain[2][8]",
