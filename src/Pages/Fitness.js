@@ -175,9 +175,6 @@ const Fitness = () => {
 
 
           </div>
-          <div className="advatige advatige-Food">
-            <h2 className="advatige-text advatige-text-Food ">Advertistment</h2>
-          </div>
 
         </div>
 
