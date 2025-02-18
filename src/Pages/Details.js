@@ -92,7 +92,7 @@ const Details = (props) => {
     {
       id: 11,
       title: "MARJAAVAN",
-      img: "https://th.bing.com/th/id/OIP.HscwJ9avLJQdSrlas-a4CgHaKI?rs=1&pid=ImgDetMain",
+      img: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRemShT6JAHw&psig=AOvVaw1hFA3nG3rfehwXNjklsJUb&ust=1739984872101000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjdgvXazYsDFQAAAAAdAAAAABAE",
       category: "Bollywood",
       description:
         "Marjaavaan (transl. I will die) is a 2019 Hindi language romantic action film[4] written and directed by Milap Milan Zaveri and produced by T-Series and Emmay Entertainment.[5] Marjaavaan stars Riteish Deshmukh, Sidharth Malhotra, Rakul Preet Singh and Tara Sutaria.[6] It was described by co-producer Bhushan Kumar as a masala and dramatic love story.[7] The film received mixed reviews from critics and was commercially 'below average' at the box office. This marked the second collaboration between Malhotra and Deshmukh since Ek Villain[2][8]",
